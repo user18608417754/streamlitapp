@@ -4,5 +4,5 @@ streamlit==1.45.1
 numpy==2.2.6
 pandas==2.3.0
 xgboost==3.0.2
-imblearn
+imblearn==0.0
 matplotlib==3.10.3
